@@ -1,5 +1,6 @@
 "use strict";
 
+(function () {
 var userInput = document.getElementById("user-input"),
     tagButton = document.getElementById("insert-tag-button"),
     elementButton = document.getElementById("insert-element-button"),
@@ -20,3 +21,4 @@ var userInput = document.getElementById("user-input"),
         displayDiv.appendChild(newDiv);
     });
 
+})();

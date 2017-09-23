@@ -2,7 +2,7 @@
 
 var userInput = document.getElementById("user-input"),
     tagButton = document.getElementById("insert-tag-button"),
-    elementButton = document.getElementById("insert-tag-element"),
+    elementButton = document.getElementById("insert-element-button"),
     displayDiv = document.getElementById("output");
 
     tagButton.addEventListener("click", function() {
@@ -20,4 +20,3 @@ var userInput = document.getElementById("user-input"),
         displayDiv.appendChild(newDiv);
     });
 
-    alert("working");

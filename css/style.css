@@ -1,13 +1,13 @@
 body {
     background-color: yellowgreen;
     color: white;
-    font-size: 5rem;
+    font-size: 1.2rem;
 }
 
 #output div {
     border: 1px solid red;
     margin-bottom: 1rem;
-    width: 100px;
+    width: 150px;
 }
 
 .background {

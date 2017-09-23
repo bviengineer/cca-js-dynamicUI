@@ -1,0 +1,19 @@
+body {
+    background-color: yellowgreen;
+    color: white;
+    font-size: 5rem;
+}
+
+#output div {
+    border: 1px solid red;
+    margin-bottom: 1rem;
+    width: 100px;
+}
+
+.background {
+    background-color: crimson;
+}
+
+.background2 {
+    background-color: rosybrown;
+}
